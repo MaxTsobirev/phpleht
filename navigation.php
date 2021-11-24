@@ -18,4 +18,6 @@
 
         <a href="?leht=pildid">Pildid</a>
 
+        <a href="?leht=lisamineNaitamine">Loomad</a>
+
 </nav>
