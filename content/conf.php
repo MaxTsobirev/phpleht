@@ -16,4 +16,27 @@ VALUES ('koer','siia tuleb kirjeldus');
 
 select * from loomad
  */
+/*
+ * create table puud(
+    id int primary key AUTO_INCREMENT,
+    puunimi varchar(50),
+    pilt TEXT)
+ * */
+
+
+/*
+ * create TABLE kasutajad (
+    id int not null primary key AUTO_INCREMENT,
+    nimi varchar (12),
+    parool varchar(120),
+    onAdmin tinyint,
+    koduleht varchar(100))
+ */
+
+/*
+ * create table meterialid(
+    id int primary key AUTO_INCREMENT,
+    materialid varchar(50))
+ */
+
 ?>

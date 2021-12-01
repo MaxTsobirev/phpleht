@@ -20,4 +20,6 @@
 
         <a href="?leht=lisamineNaitamine">Loomad</a>
 
+        <a href="?leht=puuLeht">PuuLeht</a>
+
 </nav>
